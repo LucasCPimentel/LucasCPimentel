@@ -4,7 +4,7 @@
 
 ## Python Developer
 
-⚙️ **Skills:** Python, SQL, PowerBI, Machine Learning, JavaScript, HTML, CSS  
+⚙️ **Skills:** Bubble, Python, SQL, PowerBI, Machine Learning, JavaScript, HTML, CSS  
 🌍 **Actively Engaged:** in communities related to artificial intelligence technology  
 💡 **Projects:** Developed a Python-based chatbot integrated with GPT for enhanced user interaction  
 💬 **Talk to Me About:** Python, Data Science, Full-Stack Development, and innovative tech solutions!
